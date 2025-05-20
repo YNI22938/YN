@@ -1,0 +1,42 @@
+{
+  "name": "Aniyomi Custom Sources",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "EcceQ Anime",
+      "pkg": "https://ecceq.org/",
+      "lang": "ar",
+      "nsfw": false
+    },
+    {
+      "name": "AnimePec",
+      "pkg": "https://animepec.com/",
+      "lang": "ar",
+      "nsfw": false
+    },
+    {
+      "name": "WitAnime",
+      "pkg": "https://witanime.cyou/",
+      "lang": "ar",
+      "nsfw": false
+    },
+    {
+      "name": "Anime Planet",
+      "pkg": "https://www.anime-planet.com/",
+      "lang": "en",
+      "nsfw": false
+    },
+    {
+      "name": "AnimHQ",
+      "pkg": "https://animhq.com/",
+      "lang": "ar",
+      "nsfw": false
+    },
+    {
+      "name": "Cinemana",
+      "pkg": "https://cinemana.shabakaty.com/home",
+      "lang": "ar",
+      "nsfw": false
+    }
+  ]
+}
